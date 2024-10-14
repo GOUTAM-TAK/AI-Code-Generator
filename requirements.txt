@@ -1,6 +1,8 @@
 git+https://github.com/msuliot/package.helpers.git
 git+https://github.com/msuliot/package.utils.git
 git+https://github.com/msuliot/package.data.loaders.git
-python-dotenv
-gradio
 rich
+langchain==0.0.232
+gradio==3.41.2
+openai==0.27.8
+python-dotenv==1.0.0
