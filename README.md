@@ -1,8 +1,8 @@
 # AI-Code-Generator
 AI Code Generator using openai and langchain framework.
-# Blades of Grass - AI Code Generator
+# AI Code Generator
 
-Blades of Grass is an AI assistant that leverages OpenAI to generate high-quality, enterprise-level code snippets based on user queries. Built with `LangChain` and `Gradio`, this tool provides an intuitive interface to quickly generate code based on simple user prompts.
+AI Code Generator is an AI assistant that leverages OpenAI to generate high-quality, enterprise-level code snippets based on user queries. Built with `LangChain` and `Gradio`, this tool provides an intuitive interface to quickly generate code based on simple user prompts.
 
 ## Features
 - Powered by OpenAI's GPT-4 for accurate and context-aware code generation.
